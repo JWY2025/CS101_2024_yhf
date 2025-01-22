@@ -6,4 +6,4 @@ problem_list这个文件夹里有每日选做的代码
 
 cheatsheet文件夹放了考试的时候用的cheatsheet（实际考试的时候是两个cheatsheet剪切拼贴起来的）
 
-materials文件夹放了一些老师分享的文件（例如书、github的使用指南等）
+materials文件夹放了一些老师分享的文件
